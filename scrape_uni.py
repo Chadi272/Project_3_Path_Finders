@@ -94,17 +94,17 @@ for row in column_continuation:
     value = row.text.strip()
     list_continuation.append(value)
 
-table['2022'] = list_2022
-table['2021'] = list_2021
+table['rank'] = list_2022
+table['last year rank'] = list_2021
 table['institution'] = list_institution
-table['guardian_score'] = list_gscore
+table['guardian score / 100'] = list_gscore
 table['Satisfied with course'] = list_overall
 table['Satisfied with teaching'] = list_teaching
 table['Satisfied with feedback'] = list_assessment
-table['Student to Staff Ratio"'] = list_stustaff
-table['Spend per student'] = list_expend
+table['Student to Staff Ratio'] = list_stustaff
+table['Spend per student /10'] = list_expend
 table['Average Entry tariff'] = list_tariff
-table['Value Added score'] = list_value
+table['Value Added score /10'] = list_value
 table['Career After 15 months'] = list_career
 table['Continuation'] = list_continuation
 
