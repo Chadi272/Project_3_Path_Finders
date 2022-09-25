@@ -18,3 +18,17 @@ We are a group of students, looking to help our community by creating a dashboar
 * Moving from python, the data will be exported as well to an excel file that will be used as data source for a Tableau dashboard. The report will be published and used as a final product.
 
 * Moreover, we will be using HTML and CSS to develop a website, using a Flask based application and a JavaScript code that will properly create a website with our findings, as well as visualizations, and interactive menus for ease of access.
+
+## Technical specification:
+### Sources
+### Web Scraping
+### ETL process
+### PostgreSQL DB
+### Tableau
+### Flask
+### HTML
+### CSS
+### Java Script
+ #### Plotly.js
+ #### Charts.js
+ #### Leaflet.js
