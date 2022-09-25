@@ -94,6 +94,7 @@ for row in column_continuation:
     value = row.text.strip()
     list_continuation.append(value)
 
+table['year'] = 2022
 table['rank'] = list_2022
 table['last year rank'] = list_2021
 table['institution'] = list_institution
