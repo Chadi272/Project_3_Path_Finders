@@ -45,7 +45,7 @@ body{
 }
 
 .overlay-bottom::after {
-    bottom: -1px;
+    bottom: 0px;
     background: url(../img/overlay-bottom.png);
     position: absolute;
     content: "";
