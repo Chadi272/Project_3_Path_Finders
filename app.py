@@ -45,6 +45,11 @@ def df():
 
     return render_template("DF.html")
 
+@app.route("/tableau")
+def tableau():
+
+    return render_template("tableau.html")
+
 if __name__ == "__main__":
     app.run(debug=True)
 

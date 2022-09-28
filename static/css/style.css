@@ -118,3 +118,7 @@ h4, p {
     height: 600px;
     width: 100%;
 }
+
+.tableauPlaceholder{
+    width: max-content;
+}
